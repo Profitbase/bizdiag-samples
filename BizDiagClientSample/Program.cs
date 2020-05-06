@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 namespace BizDiagClientSample
 {
     class Program
-    {
-        // Subscription key for KPMG-Kosmos-Developer
-        const string SubscriptionKey = "fee8695699f44630904a6dea621ca8e0";
+    {        
+        const string SubscriptionKey = "<API Subscription Key>";
 
         static async Task Main(string[] args)
         {
